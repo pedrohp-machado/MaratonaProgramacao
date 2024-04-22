@@ -33,7 +33,6 @@ void main(){
     } else{
         printf("CHAT WITH HER\n");
     }
-
     return;
 
 }
