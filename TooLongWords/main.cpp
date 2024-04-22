@@ -9,7 +9,7 @@ int main() {
 
     cout << "Quantas palavras serão lidas? " << endl;
     cin >> n;
-
+    
     for (int i = 0; i < n; i++){
         cin >> word;
 
