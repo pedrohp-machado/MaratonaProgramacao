@@ -19,7 +19,6 @@ int main() {
     }
 
     moves += abs(lin - 2) + abs(col - 2);
-
     cout << "É preciso " << moves << " movimento(s)." << endl;
     return 0;
 }
